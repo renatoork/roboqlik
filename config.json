@@ -1,0 +1,29 @@
+{
+    "configuracao": {
+		"ExecucaoContinua": "N",
+		"TempoDeExecucao": 5,
+        "criardiretorio": "S",
+		"enviaremail": "N",
+        "diretorios": {
+            "csvgerados": ".\\CSVGerados",
+            "planilhasimportadas": ".\\PlanilhasImportadas",
+            "planilhasaimportar": ".\\PlanilhasAImportar",
+            "planilhascomerro": ".\\PlanilhasComErro",
+            "planilhassemmetadado": ".\\PlanilhasSemMetaDado",
+            "log": ".\\Log"
+        },
+        "metadados": {
+            "diretorio": ".\\MetaDados",
+            "nomearquivo": "MetaDados_Stefanini.xlsx"
+        },
+        "email": {
+            "nomeremetente": "Renato Arruda",
+            "titulo": "QLIK - Planilha com erro",
+            "mensagem": "Existe um erro na estrutura da planilha. <br> Verifique o arquivo de log anexo.",
+            "servidor": "smtp.gmail.com",
+            "porta": 587,
+            "contaemail": "renato@sadebi.com.br",
+            "senha": "a@m0R12345"
+        }
+    }
+}

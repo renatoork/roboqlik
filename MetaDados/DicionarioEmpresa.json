@@ -1,0 +1,827 @@
+{
+	"base backlog - dupont|report": [
+		"dupont",
+		"chamados",
+		"report"
+	],
+	"base geral de eventos - globosat|plan1": [
+		"globosat",
+		"eventos",
+		"plan1"
+	],
+	"base histórica de abertos - abb|planilha1": [
+		"abb",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - banco fibra|planilha1": [
+		"banco fibra",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - boa vista|planilha1": [
+		"boa vista",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - btg|planilha1": [
+		"btg",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - carrefour|abertos": [
+		"carrefour",
+		"chamadosbh",
+		"abertos"
+	],
+	"base histórica de abertos - elebat|planilha1": [
+		"elebat",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - etna|plan1": [
+		"etna",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos - gerdau|abertos": [
+		"gerdau",
+		"chamadosbh",
+		"abertos"
+	],
+	"base histórica de abertos - globosat|plan1": [
+		"globosat",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos - imc|planilha1": [
+		"imc",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamadosbh",
+		"gstools - web tickets"
+	],
+	"base histórica de abertos - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamadosbh",
+		"gasd raw data"
+	],
+	"base histórica de abertos - linde|planilha1": [
+		"linde",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de abertos - mrs|plan1": [
+		"mrs",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos - neoenergia|inc_abertos": [
+		"neoenergia",
+		"chamadosbh",
+		"inc_abertos"
+	],
+	"base histórica de abertos - neoenergia|wo_abertos": [
+		"neoenergia",
+		"chamadosbh",
+		"wo_abertos"
+	],
+	"base histórica de abertos - nidera|abertos": [
+		"nidera",
+		"chamadosbh",
+		"abertos"
+	],
+	"base histórica de abertos - porto seguro|plan1": [
+		"porto seguro",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos - tyco|massa": [
+		"tyco",
+		"chamadosbh",
+		"massa"
+	],
+	"base histórica de abertos - unimed rio|plan1": [
+		"unimed rio",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos - westrock|plan1": [
+		"westrock",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de abertos fechados backlog - mongeral - infra|relat_xml*": [
+		"mongeral",
+		"chamadosbh",
+		"relat_xml*"
+	],
+	"base histórica de backlog - abb|planilha1": [
+		"abb",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - boa vista|planilha1": [
+		"boa vista",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - btg|planilha1": [
+		"btg",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - carrefour|backlog": [
+		"carrefour",
+		"chamadosbh",
+		"backlog"
+	],
+	"base histórica de backlog - dupont|report": [
+		"dupont",
+		"chamadosbh",
+		"report"
+	],
+	"base histórica de backlog - elebat|planilha1": [
+		"elebat",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - etna|plan1": [
+		"etna",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de backlog - gerdau|backlog": [
+		"gerdau",
+		"chamadosbh",
+		"backlog"
+	],
+	"base histórica de backlog - imc|planilha1": [
+		"imc",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamadosbh",
+		"gstools - web tickets"
+	],
+	"base histórica de backlog - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamadosbh",
+		"gasd raw data"
+	],
+	"base histórica de backlog - linde|planilha1": [
+		"linde",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de backlog - mrs|plan1": [
+		"mrs",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de backlog - neoenergia|inc_backlog": [
+		"neoenergia",
+		"chamadosbh",
+		"inc_backlog"
+	],
+	"base histórica de backlog - neoenergia|wo_backlog": [
+		"neoenergia",
+		"chamadosbh",
+		"wo_backlog"
+	],
+	"base histórica de backlog - nidera|backlog": [
+		"nidera",
+		"chamadosbh",
+		"backlog"
+	],
+	"base histórica de backlog - porto seguro|plan1": [
+		"porto seguro",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de backlog - tyco|massa": [
+		"tyco",
+		"chamadosbh",
+		"massa"
+	],
+	"base histórica de backlog - unimed rio|plan1": [
+		"unimed rio",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de backlog - westrock|plan1": [
+		"westrock",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de chat - porto seguro|plan1": [
+		"porto seguro",
+		"chatbh",
+		"plan1"
+	],
+	"base histórica de fechados - abb|planilha1": [
+		"abb",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - banco fibra|planilha1": [
+		"banco fibra",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - boa vista|planilha1": [
+		"boa vista",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - btg|planilha1": [
+		"btg",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - carrefour|fechados": [
+		"carrefour",
+		"chamadosbh",
+		"fechados"
+	],
+	"base histórica de fechados - elebat|planilha1": [
+		"elebat",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - etna|plan1": [
+		"etna",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de fechados - gerdau|fechados": [
+		"gerdau",
+		"chamadosbh",
+		"fechados"
+	],
+	"base histórica de fechados - imc|planilha1": [
+		"imc",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamadosbh",
+		"gstools - web tickets"
+	],
+	"base histórica de fechados - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamadosbh",
+		"gasd raw data"
+	],
+	"base histórica de fechados - linde|planilha1": [
+		"linde",
+		"chamadosbh",
+		"planilha1"
+	],
+	"base histórica de fechados - mrs|plan1": [
+		"mrs",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de fechados - neoenergia|inc_fechados": [
+		"neoenergia",
+		"chamadosbh",
+		"inc_fechados"
+	],
+	"base histórica de fechados - neoenergia|wo_fechados": [
+		"neoenergia",
+		"chamadosbh",
+		"wo_fechados"
+	],
+	"base histórica de fechados - nidera|fechados": [
+		"nidera",
+		"chamadosbh",
+		"fechados"
+	],
+	"base histórica de fechados - porto seguro|plan1": [
+		"porto seguro",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de fechados - tyco|massa": [
+		"tyco",
+		"chamadosbh",
+		"massa"
+	],
+	"base histórica de fechados - unimed rio|plan1": [
+		"unimed rio",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de fechados - westrock|plan1": [
+		"westrock",
+		"chamadosbh",
+		"plan1"
+	],
+	"base histórica de pesquisa - gerdau|avaliados": [
+		"gerdau",
+		"pesquisabh",
+		"avaliados"
+	],
+	"base histórica de pesquisa - mongeral|owssvr": [
+		"mongeral",
+		"pesquisabh",
+		"owssvr"
+	],
+	"base histórica de pesquisa - porto seguro|plan1": [
+		"porto seguro",
+		"pesquisabh",
+		"plan1"
+	],
+	"base histórica de telefonia - abandono tyco|abandon-answer hist-call type a": [
+		"tyco",
+		"telefoniabh",
+		"abandon-answer hist-call type a"
+	],
+	"base histórica de telefonia - banco fibra|planilha1": [
+		"banco fibra",
+		"telefoniabh",
+		"planilha1"
+	],
+	"base histórica de telefonia - banco fibra|sheet1": [
+		"banco fibra",
+		"telefoniabh",
+		"sheet1"
+	],
+	"base histórica de telefonia - boa vista|planilha1": [
+		"boa vista",
+		"telefoniabh",
+		"planilha1"
+	],
+	"base histórica de telefonia - mongeral|telefonia*": [
+		"mongeral",
+		"telefoniabh",
+		"telefonia*"
+	],
+	"base histórica de telefonia - tyco|agent historical all fields dai": [
+		"tyco",
+		"telefoniabh",
+		"agent historical all fields dai"
+	],
+	"base histórica de telefonia por hora|relat_xml*": [
+		"mongeral",
+		"telefoniabh",
+		"relat_xml*"
+	],
+	"base histórica de telefonia unimed rio|plan1": [
+		"unimed rio",
+		"telefoniabh",
+		"plan1"
+	],
+	"base histórica de telefonia- porto seguro|plan1": [
+		"porto seguro",
+		"telefoniabh",
+		"plan1"
+	],
+	"bases históricas abertos fechados backlog - ambev|planilha1": [
+		"ambev",
+		"chamadosbh",
+		"planilha1"
+	],
+	"chamados abertos - abb|planilha1": [
+		"abb",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - banco fibra|planilha1": [
+		"banco fibra",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - boa vista|planilha1": [
+		"boa vista",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - btg|planilha1": [
+		"btg",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - carrefour|planilha1": [
+		"carrefour",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - elebat|planilha1": [
+		"elebat",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - etna|plan1": [
+		"etna",
+		"chamados",
+		"plan1"
+	],
+	"chamados abertos - gerdau|abertos": [
+		"gerdau",
+		"chamados",
+		"abertos"
+	],
+	"chamados abertos - globosat|plan1": [
+		"globosat",
+		"chamados",
+		"plan1"
+	],
+	"chamados abertos - imc|planilha1": [
+		"imc",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamados",
+		"gstools - web tickets"
+	],
+	"chamados abertos - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamados",
+		"gasd raw data"
+	],
+	"chamados abertos - mrs|plan1": [
+		"mrs",
+		"chamados",
+		"plan1"
+	],
+	"chamados abertos - nidera|abertos": [
+		"nidera",
+		"chamados",
+		"abertos"
+	],
+	"chamados abertos - porto seguro|plan1": [
+		"porto seguro",
+		"chamados",
+		"plan1"
+	],
+	"chamados abertos - tyco|massa": [
+		"tyco",
+		"chamados",
+		"massa"
+	],
+	"chamados abertos - westrock|plan1": [
+		"westrock",
+		"chamados",
+		"plan1"
+	],
+	"chamados abertos fechados backlog - ambev|planilha1": [
+		"ambev",
+		"chamados",
+		"planilha1"
+	],
+	"chamados abertos fechados backlog - mongeral - infra|relat_xml*": [
+		"mongeral",
+		"chamados",
+		"relat_xml*"
+	],
+	"chamados atividades abertos - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados atividades backlog - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados atividades fechados - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados backlog - abb|planilha1": [
+		"abb",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - boa vista|planilha1": [
+		"boa vista",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - btg|planilha1": [
+		"btg",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - carrefour|planilha1": [
+		"carrefour",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - elebat|planilha1": [
+		"elebat",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - etna|plan1": [
+		"etna",
+		"chamados",
+		"plan1"
+	],
+	"chamados backlog - gerdau|backlog": [
+		"gerdau",
+		"chamados",
+		"backlog"
+	],
+	"chamados backlog - imc|planilha1": [
+		"imc",
+		"chamados",
+		"planilha1"
+	],
+	"chamados backlog - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamados",
+		"gstools - web tickets"
+	],
+	"chamados backlog - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamados",
+		"gasd raw data"
+	],
+	"chamados backlog - mrs|plan1": [
+		"mrs",
+		"chamados",
+		"plan1"
+	],
+	"chamados backlog - nidera|backlog": [
+		"nidera",
+		"chamados",
+		"backlog"
+	],
+	"chamados backlog - porto seguro|plan1": [
+		"porto seguro",
+		"chamados",
+		"plan1"
+	],
+	"chamados backlog - tyco|massa": [
+		"tyco",
+		"chamados",
+		"massa"
+	],
+	"chamados backlog - westrock|plan1": [
+		"westrock",
+		"chamados",
+		"plan1"
+	],
+	"chamados backlogs - abb|planilha1": [
+		"abb",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - abb|planilha1": [
+		"abb",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - banco fibra|planilha1": [
+		"banco fibra",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - boa vista|planilha1": [
+		"boa vista",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - btg|planilha1": [
+		"btg",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - carrefour|planilha1": [
+		"carrefour",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - elebat|planilha1": [
+		"elebat",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - etna|plan1": [
+		"etna",
+		"chamados",
+		"plan1"
+	],
+	"chamados fechados - gerdau|fechados": [
+		"gerdau",
+		"chamados",
+		"fechados"
+	],
+	"chamados fechados - imc|planilha1": [
+		"imc",
+		"chamados",
+		"planilha1"
+	],
+	"chamados fechados - j\u0026j bi|gstools - web tickets": [
+		"j\u0026j – msbi",
+		"chamados",
+		"gstools - web tickets"
+	],
+	"chamados fechados - j\u0026j l1,5|gasd raw data": [
+		"j\u0026j – l1,5",
+		"chamados",
+		"gasd raw data"
+	],
+	"chamados fechados - mrs|plan1": [
+		"mrs",
+		"chamados",
+		"plan1"
+	],
+	"chamados fechados - nidera|fechados": [
+		"nidera",
+		"chamados",
+		"fechados"
+	],
+	"chamados fechados - porto seguro|plan1": [
+		"porto seguro",
+		"chamados",
+		"plan1"
+	],
+	"chamados fechados - tyco|massa": [
+		"tyco",
+		"chamados",
+		"massa"
+	],
+	"chamados fechados - westrock|plan1": [
+		"westrock",
+		"chamados",
+		"plan1"
+	],
+	"chamados im abertos - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados im backlog - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados im fechados - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados in abertos - neoenergia|inc_abertos": [
+		"neoenergia",
+		"chamados",
+		"inc_abertos"
+	],
+	"chamados in backlog - neoenergia|inc_backlog": [
+		"neoenergia",
+		"chamados",
+		"inc_backlog"
+	],
+	"chamados in fechados - neoenergia|inc_fechados": [
+		"neoenergia",
+		"chamados",
+		"inc_fechados"
+	],
+	"chamados inc abertos - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados inc backlog - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados inc fechados - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados sd abertos - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados sd backlog - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados sd fechados - linde|planilha1": [
+		"linde",
+		"chamados",
+		"planilha1"
+	],
+	"chamados serv abertos - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados serv backlog - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados serv fechados - unimed rio|plan1": [
+		"unimed rio",
+		"chamados",
+		"plan1"
+	],
+	"chamados wo abertos - neoenergia|wo_abertos": [
+		"neoenergia",
+		"chamados",
+		"wo_abertos"
+	],
+	"chamados wo backlog - neoenergia|wo_backlog": [
+		"neoenergia",
+		"chamados",
+		"wo_backlog"
+	],
+	"chamados wo fechados - neoenergia|wo_fechados": [
+		"neoenergia",
+		"chamados",
+		"wo_fechados"
+	],
+	"chat - porto seguro|plan1": [
+		"porto seguro",
+		"chat",
+		"plan1"
+	],
+	"diario de bordo - globosat|plan1": [
+		"globosat",
+		"diario de bordo",
+		"plan1"
+	],
+	"pesquisa - gerdau|avaliados": [
+		"gerdau",
+		"pesquisa",
+		"avaliados"
+	],
+	"pesquisa - mongeral|owssvr": [
+		"mongeral",
+		"pesquisa",
+		"owssvr"
+	],
+	"pesquisa - porto seguro|plan1": [
+		"porto seguro",
+		"pesquisa",
+		"plan1"
+	],
+	"relatório de disponibilidade - globosat|plan1": [
+		"globosat",
+		"monitoracao",
+		"plan1"
+	],
+	"telefonia - abandono tyco|abandon-answer hist-call type a": [
+		"tyco",
+		"telefonia",
+		"abandon-answer hist-call type a"
+	],
+	"telefonia - banco fibra|planilha1": [
+		"banco fibra",
+		"telefonia",
+		"planilha1"
+	],
+	"telefonia - banco fibra|sheet1": [
+		"banco fibra",
+		"telefonia",
+		"sheet1"
+	],
+	"telefonia - boa vista|planilha1": [
+		"boa vista",
+		"telefonia",
+		"planilha1"
+	],
+	"telefonia - mongeral|telefonia*": [
+		"mongeral",
+		"telefonia",
+		"telefonia*"
+	],
+	"telefonia - tyco|agent historical all fields dai": [
+		"tyco",
+		"telefonia",
+		"agent historical all fields dai"
+	],
+	"telefonia por hora|relat_xml*": [
+		"mongeral",
+		"telefonia",
+		"relat_xml*"
+	],
+	"telefonia unimed rio|plan1": [
+		"unimed rio",
+		"telefonia",
+		"plan1"
+	],
+	"telefonia- porto seguro|plan1": [
+		"porto seguro",
+		"telefonia",
+		"plan1"
+	]
+}

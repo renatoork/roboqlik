@@ -1,0 +1,35 @@
+PLANILHAS COM ERRO:
+Unimed Rio | base historico abertos/fechados/backlog/Telefonia | colunas no metadado que não tem nos arquivos de dados
+Unimed Rio | abertos/fechados/backlog/Telefonia | colunas no metadado que não tem nos arquivos de dados
+Dupont | Base Backlog  | Arquivos de dados não está no padrão - tem um cabeçalho nas 3 primeiras linhas
+MonGeral | base histórica abertos/fechados/backlog/telefonia | arquivo do tipo xls
+Abb | Base Historico Abertos | A planilha de Base Histórico só tem no meta dado a Planilha1, falta colocar as pastas IM e SD. Todas estas pastas estão no mesmo arquivo.
+Carrefour | Base histórica de abertos/backlog/fechados - carrefour - (sara e sm) | Tem colunas no metadado que não tem na planilha de dados.
+Dupont | base historica abertos/fechados/backlog | arquivos do tipo xls
+Gerdau | base historica abertos/backlog | colunas no metadado que não tem nos arquivos de dados
+Etna | base historica backlog | colunas no metadado que não tem nos arquivos de dados
+Nidera | base historica backlog | colunas no metadado que não tem nos arquivos de dados
+Nidera | base historica fechados | erro ao ler o xlsx. O arquivo esta corrompido
+Porto Seguro | base historica backlog | colunas no metadado que não tem nos arquivos de dados
+Banco Fibra | base historica telefonia | a planilha de dados não esta no padrao ideal, existem duas linhas de cabeçalho.
+Ambev | base historica abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+Aernova | chamados abertos/fechados/backlog/telefonia | arquivos do tipo xls
+Boa Vista | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+Btg | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados (até tem a coluna, mas esta em ingles na plan de dados)
+Etna | chamados abertos | colunas no metadado que não tem nos arquivos de dados
+Mongeral | chamados abertos/fechados/backlog/telefonia | arquivos do tipo xls
+Gerdau | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+J&J | chamados abertos/fechados/backlog L1,5 e BI | colunas no metadado que não tem nos arquivos de dados
+Porto Seguro | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+Ambev | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+Nidera | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+Linde | chamados abertos/fechados/backlog | colunas no metadado que não tem nos arquivos de dados
+GloboSat | Diario de bordo | colunas no metadado que não tem nos arquivos de dados
+Andrare Gutierrez | Pesquisa Satisfação | arquivos do tipo xls
+Tyco | Telofonia | arquivos do tipo xls e colunas no metadado que não tem nos arquivos de dados (são dois arquivos em meses diferentes o primeiro veio com xls e o segundo deu erro decoluna obrigatoria no metadado)
+Banco Fibra | telefonia | arquivos do tipo xls e colunas no metadado que não tem nos arquivos de dados (são dois arquivos em meses diferentes o primeiro veio com xls e o segundo deu erro decoluna obrigatoria no metadado)
+
+PLANILHAS SEM METADADO
+São mais de 400, não vi uma por uma, mas 100% das que vi por amostragem são porque não existe o nome da planilha no metadado. No início foi definido que iríamos buscar pelo nome ao invés de obrigar uma nomenclatura nossa. Porém, terá que ser definido uma nomenclatura pois um espaço a mais que venha no nome do arquivo pode dar problema. Além disto, tem muitas planilhas que até tem um padrão, porém não existe no metadado a configuração.
+
+
